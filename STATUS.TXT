@@ -1,0 +1,2 @@
+using this tutorial
+https://wsvincent.com/django-rest-framework-react-tutorial/
